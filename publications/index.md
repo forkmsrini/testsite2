@@ -14,4 +14,4 @@ permalink: /publications/
 * Srinivasan, M.; and Aravamudhan, V., “Independent Component Analysis of Edge Information for Face Recognition under Variation of Pose and Illumination,” 2012 Fourth International Conference on Computational Intelligence, Modelling and Simulation (CIMSim’12), vol., no., pp.226 – 231, Sept. 2012.
 
 ##Journal Papers
-*Srinivasan, M.; “SV-M/D: Support Vector Machine-Singular Value Decomposition Based Face Recognition,” Advances in Intelligent and Soft Computing Series, Springer International Publishing.
+* Srinivasan, M.; “SV-M/D: Support Vector Machine-Singular Value Decomposition Based Face Recognition,” Advances in Intelligent and Soft Computing Series, Springer International Publishing.
