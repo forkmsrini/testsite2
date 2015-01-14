@@ -6,6 +6,9 @@ permalink: /about/
 
 Vanakkam! (Translates to Hi! in English.) 
 
+OneLiner Introduction: Average Joe with intrest in artificial intelligence.
+
+### Work
 I currently work as a Project Assistant at the Medical Intelligence and Language Engineeing (MILE) Lab, Department of Electrical Engineering, Indian Institute of Science (IISc), Bangalore. 
 
 ### Research Interest
