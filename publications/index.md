@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About | Publications
+title: Publications
+permalink: /publications/
 ---
 
 #Conference Papers
