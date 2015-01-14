@@ -20,4 +20,7 @@ Link to my [Google Scholar Profile](http://scholar.google.co.in/citations?user=M
 
 ##Other Publication
 Projects & activities through various collaborations that have lead to an publication and/or report (Excluding Research Interest)
+
 * Balu, A.; Antony Venus A.J.; Srinivasan, M.; Neol Victor, A.; Madhuri, K.; Vijayaraghavan V. and Kulkarni, K.; “Local Content Development Framework and Methodology for Knowledge and Skill Development: IEEE Madras Section SIGHT Case Study,” 2014 IEEE Global Humanitarian Technology Conference (GHTC’14), Oct. 2014.
+* Balu, A.; Antony Venus A.J.; Srinivasan, M.; Neol Victor, A.; Madhuri, K.; Vijayaraghavan V. and Kulkarni, K.; “Real-World proficiency augmentation among learners through merger of Project Based Learning (PBL) and Student Social Responsibility (SSR) : IEEE Madras Section SIGHT Case Study,” 2014 IEEE Global Humanitarian Technology Conference (GHTC’14), Oct. 2014.
+* Srinivasan, M.; Viijayaraghavan V.; and Balu A.; “GreenEduComp: Low Cost Green Computing System for Education in Rural India A Scheme for Sustainable Development Through Education,” 2013 IEEE Global Humanitarian Technology Conference (GHTC’13), Oct. 2013.
