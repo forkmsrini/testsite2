@@ -7,7 +7,7 @@ permalink: /publications/
 Link to my [Google Scholar Profile](http://scholar.google.co.in/citations?user=MahZ6toAAAAJ&hl=en) is here.
 
 
-##Conference Papers
+###Conference Papers
 * Srinivasan, M.; "Using Bayesian Statistics and Gabor Wavelets for Recognition of Human Faces: A Markov Random Field Framework,” The Eighth International Conference on Advances in Pattern Recognition (ICAPR’15), Jan. 2015. Accepted.
 * Srinivasan, M. and Harshitha, P.V.; “Towards Better Veracity For Breast Cancer Detection Using Gabor Wavelets Analysis And Statistical Markov Model,” The 13th International Conference on Control, Automation, Robotics and Vision, (ICARCV’14), Dec. 2014.
 * Vijayaraghavan V.; Srinivasan, M.; Boopathi K.; and Kanagavel P.; “Wind Profile Modelling Using Statistical Analysis Of Weibull Distribution: An Indian Perspective,” The Eighth Asia-Pacific Conference on Wind Engineering (APCWE- VIII), Dec. 2013.
@@ -16,10 +16,10 @@ Link to my [Google Scholar Profile](http://scholar.google.co.in/citations?user=M
 * Srinivasan, M.; and Ravichandran, N., “A 2D Discrete Wavelet Transform Based 7-State Hidden Markov Model for Efficient Face Recognition,” 2013 4th International Conference on Intelligent Systems Modelling and Simulation (ISMS’13), vol., no., pp.199 – 203, Jan. 2013.
 * Srinivasan, M.; and Aravamudhan, V., “Independent Component Analysis of Edge Information for Face Recognition under Variation of Pose and Illumination,” 2012 Fourth International Conference on Computational Intelligence, Modelling and Simulation (CIMSim’12), vol., no., pp.226 – 231, Sept. 2012.
 
-##Journal Papers
+###Journal Papers
 * Srinivasan, M.; “SV-M/D: Support Vector Machine-Singular Value Decomposition Based Face Recognition,” Advances in Intelligent and Soft Computing Series, Springer International Publishing.
 
-##Other Publication
+###Other Publication
 Projects & activities through various collaborations that have lead to an publication and/or report (Excluding Research Interest)
 
 * Balu, A.; Antony Venus A.J.; Srinivasan, M.; Neol Victor, A.; Madhuri, K.; Vijayaraghavan V. and Kulkarni, K.; “Local Content Development Framework and Methodology for Knowledge and Skill Development: IEEE Madras Section SIGHT Case Study,” 2014 IEEE Global Humanitarian Technology Conference (GHTC’14), Oct. 2014.
