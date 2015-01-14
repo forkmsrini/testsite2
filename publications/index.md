@@ -17,3 +17,7 @@ Link to my [Google Scholar Profile](http://scholar.google.co.in/citations?user=M
 
 ##Journal Papers
 * Srinivasan, M.; “SV-M/D: Support Vector Machine-Singular Value Decomposition Based Face Recognition,” Advances in Intelligent and Soft Computing Series, Springer International Publishing.
+
+##Other Publication
+Projects & activities through various collaborations that have lead to an publication and/or report (Excluding Research Interest)
+* Balu, A.; Antony Venus A.J.; Srinivasan, M.; Neol Victor, A.; Madhuri, K.; Vijayaraghavan V. and Kulkarni, K.; “Local Content Development Framework and Methodology for Knowledge and Skill Development: IEEE Madras Section SIGHT Case Study,” 2014 IEEE Global Humanitarian Technology Conference (GHTC’14), Oct. 2014.
