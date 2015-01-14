@@ -1,7 +1,7 @@
 #- url: /
 #  title: Home
 
-- url: /
+- url: /about
   title: About
   
 - url: /publications
