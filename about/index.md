@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /
 ---
 
 Vanakkam! (Translates to Hi! in English.) 
