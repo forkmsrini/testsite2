@@ -3,7 +3,9 @@ layout: page
 title: About
 ---
 
-Vanakam! I currently work as a Project Assistant at the Medical Intelligence and Language Engineeing (MILE) Lab, Department of Electrical Engineering, Indian Institute of Science (IISc), Bangalore. 
+Vanakam! 
+
+I currently work as a Project Assistant at the Medical Intelligence and Language Engineeing (MILE) Lab, Department of Electrical Engineering, Indian Institute of Science (IISc), Bangalore. 
 
 ### Research Interest
 
