@@ -5,9 +5,9 @@ permalink: /publications/
 ---
 
 Link to my [Google Scholar Profile](http://scholar.google.co.in/citations?user=MahZ6toAAAAJ&hl=en) is here.
-
+<!---
 ![]({{ site.url }}/public/images/eagle.png)
-
+-->
 ##Conference Papers
 * Srinivasan, M.; "Using Bayesian Statistics and Gabor Wavelets for Recognition of Human Faces: A Markov Random Field Framework,” The Eighth International Conference on Advances in Pattern Recognition (ICAPR’15), Jan. 2015. Accepted.
 * Srinivasan, M. and Harshitha, P.V.; “Towards Better Veracity For Breast Cancer Detection Using Gabor Wavelets Analysis And Statistical Markov Model,” The 13th International Conference on Control, Automation, Robotics and Vision, (ICARCV’14), Dec. 2014.
