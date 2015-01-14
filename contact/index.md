@@ -4,4 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-#Contact
+Email:
+
+firstName AT mile DOT ee DOT iisc DOT ernet DOT in
