@@ -5,6 +5,21 @@ permalink: /:title
 url:
 baseurl:
 
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble: 
+  email: mail@msrini.com
+  facebook: 
+  flickr: 
+  github: barryclark/jekyll-now
+  instagram: 
+  linkedin: 
+  pinterest: 
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: mukundhan5291
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+
+
 redcarpet:
   extensions: [strikethrough, tables]
 
