@@ -1,6 +1,6 @@
 markdown: redcarpet
-highlighter: null
-permalink: /:title
+highlighter: pygments
+permalink: /:title/
 
 url:
 baseurl:
