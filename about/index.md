@@ -14,8 +14,7 @@ I currently work as a Project Assistant at the Medical Intelligence and Language
 <div align="center">
 <table border="0" text-align="center">
 <tr>
-<td><a href='http://mile.ee.iisc.ernet.in/mile/index.html'><img src='/public/images/logo_mile.jpg' width='100' border='0'></a></td>
-<td><a href='http://www.iisc.ernet.in/'><img src='/public/images/IISc_logo_transparent.png' width='100' border='0'></a></td>
+<td><a href='http://mile.ee.iisc.ernet.in/mile/index.html'><img src='/public/images/logo_mile.jpg' width='100' border='0'></a></td><td><a href='http://www.iisc.ernet.in/'><img src='/public/images/IISc_logo_transparent.png' width='100' border='0'></a></td>
 </tr>
 </table>
 </div>
