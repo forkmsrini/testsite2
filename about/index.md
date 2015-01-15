@@ -21,3 +21,5 @@ A wordle of my interests.
 ### Other Interest
 
 I'm an ardent classical music (the Indian flavour) listener. Maharajapuram Santhanam is my favorite artist.
+
+<img style="float:right" src="public/images/flower.png">
