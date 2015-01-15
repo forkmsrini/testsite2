@@ -16,7 +16,7 @@ I currently work as a Project Assistant at the Medical Intelligence and Language
 I'm inquisitive about the working of our brain and would like to build applications using artificial inetelligence that mimic the nous. I'm particularly interested **Machine Learning** with appplication in Computer Vision and Game theory (yet to explore). Theoretical aspects of Statistics like probability modelling intrigue me. 
 
 <!--![]({{ site.url }}/public/images/eagle.png)-->
-<img style="float: center" src="/public/images/eagle.png">
+<img style="float: right" src="/public/images/eagle.png">
 
 ### Other Interest
 
