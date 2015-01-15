@@ -22,4 +22,4 @@ A wordle of my interests.
 
 I'm an ardent classical music (the Indian flavour) listener. Maharajapuram Santhanam is my favorite artist.
 
-<img style="float:left" src="/public/images/eagle.png">
+<img src="/public/images/eagle.png" align="middle">
