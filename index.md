@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-Vanakkam! (Translates to Hi! in English.)
+Vanakkam!
 
 OneLiner: Average Joe with interest in artificial intelligence.
 
