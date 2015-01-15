@@ -85,6 +85,7 @@ table {
   td, th {
     border: 0px solid $contrast-color;
     padding: 1.2px 5.8px;
+     text-align: center;
   }
 
   thead {
@@ -111,19 +112,19 @@ footer {
 
 /*============================================================================*/
 .azul { a { color: $azul-accent-color;
-    &:hover { color: darken($azul-accent-color, 20%);
+    &:hover { color: darken($azul-accent-color, 30%);
 }}}
 
 .ruby { a { color: $ruby-accent-color;
-    &:hover { color: darken($ruby-accent-color, 20%);
+    &:hover { color: darken($ruby-accent-color, 30%);
 }}}
 
 .amber { a { color: $amber-accent-color;
-    &:hover { color: darken($amber-accent-color, 20%);
+    &:hover { color: darken($amber-accent-color, 30%);
 }}}
 
 .avocado { a { color: $avocado-accent-color;
-    &:hover { color: darken($avocado-accent-color, 20%);
+    &:hover { color: darken($avocado-accent-color, 30%);
 }}}
 
 /*----------------------------------------------------------------------------*/
