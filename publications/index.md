@@ -16,8 +16,12 @@ Link to my [Google Scholar Profile](http://scholar.google.co.in/citations?user=M
 * *Srinivasan, M.;* and Ravichandran, N., “A 2D Discrete Wavelet Transform Based 7-State Hidden Markov Model for Efficient Face Recognition,” 2013 4th International Conference on Intelligent Systems Modelling and Simulation (ISMS’13), vol., no., pp.199 – 203, Jan. 2013.
 * *Srinivasan, M.;* and Aravamudhan, V., “Independent Component Analysis of Edge Information for Face Recognition under Variation of Pose and Illumination,” 2012 Fourth International Conference on Computational Intelligence, Modelling and Simulation (CIMSim’12), vol., no., pp.226 – 231, Sept. 2012.
 
+<hr/>
+
 ###Journal Papers
 * *Srinivasan, M.;* “SV-M/D: Support Vector Machine-Singular Value Decomposition Based Face Recognition,” Advances in Intelligent and Soft Computing Series, Springer International Publishing.
+
+<hr/>
 
 ###Other Publication
 Projects & activities through various collaborations that have lead to an publication and/or report (Excluding Research Interest)
@@ -28,3 +32,5 @@ Projects & activities through various collaborations that have lead to an public
 * *Srinivasan, M.;* Viijayaraghavan V.; and Balu A.; “GreenEduComp: Low Cost Green Computing System for Education in Rural India A Scheme for Sustainable Development Through Education,” 2013 IEEE Global Humanitarian Technology Conference (GHTC’13), Oct. 2013.
 * Ramesh R.; Vijayaraghavan V.; *Srinivasan, M.;* and Vijayakumar S., ``An Avant Garde Augmentation of Quality-of-Service In Rural Microgrids Via Cloud-Based Arduino-Enabled Control and Communication'', The 2013 IEEE Workshop on Environmental, Energy and Structural Monitoring Systems (EESMS'13), Sept. 2013.
 * *Srinivasan, M.;* Ramesh R.; Vijayakumar S.; and Vijayaraghavan V.; ``Low-Cost Cloud-Based Design of Smart Rural Energy Device in Microgrid: Perspective India. An Energy-On-Demand Service for Rural India'', 2013 IEEE Conference on Technologies for Sustainability – Engineering and the Environment (SusTech'13), Aug. 2013.
+
+<hr/>
