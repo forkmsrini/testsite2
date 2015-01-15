@@ -2,7 +2,7 @@ markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
 
-url:
+url: http://forkmsrini.github.io/
 baseurl:
 
 # Includes an icon in the footer for each username you enter
