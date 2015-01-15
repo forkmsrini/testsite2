@@ -12,13 +12,13 @@ OneLiner: Average Joe with interest in artificial intelligence.
 
 I currently work as a Project Assistant at the [Medical Intelligence and Language Engineeing (MILE) Lab](http://mile.ee.iisc.ernet.in/mile/index.html), [Department of Electrical Engineering](http://www.ee.iisc.ernet.in/), [Indian Institute of Science (IISc)](http://www.iisc.ernet.in/), Bangalore. 
 
-<!--<div align="center">
+<div align="center">
 <table text-align="center">
 <tr>
 <td><a href='http://mile.ee.iisc.ernet.in/mile/index.html'><img src='/public/images/logo_mile.jpg' width='150' border='0'></a></td><td><a href='http://www.iisc.ernet.in/'><img src='/public/images/IISc_logo_transparent.png' width='100' border='0'></a></td>
 </tr>
 </table>
-</div>-->
+</div>
 
 <h3>Research Interest</h3>
 
