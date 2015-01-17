@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Comming Soon...
+<!--
 Link to my [Google Scholar Profile](http://scholar.google.co.in/citations?user=MahZ6toAAAAJ&hl=en) is here.
 
 
@@ -32,5 +34,5 @@ Projects & activities through various collaborations that have lead to an public
 * *Srinivasan, M.;* Viijayaraghavan V.; and Balu A.; “GreenEduComp: Low Cost Green Computing System for Education in Rural India A Scheme for Sustainable Development Through Education,” 2013 IEEE Global Humanitarian Technology Conference (GHTC’13), Oct. 2013.
 * Ramesh R.; Vijayaraghavan V.; *Srinivasan, M.;* and Vijayakumar S., ``An Avant Garde Augmentation of Quality-of-Service In Rural Microgrids Via Cloud-Based Arduino-Enabled Control and Communication'', The 2013 IEEE Workshop on Environmental, Energy and Structural Monitoring Systems (EESMS'13), Sept. 2013.
 * *Srinivasan, M.;* Ramesh R.; Vijayakumar S.; and Vijayaraghavan V.; ``Low-Cost Cloud-Based Design of Smart Rural Energy Device in Microgrid: Perspective India. An Energy-On-Demand Service for Rural India'', 2013 IEEE Conference on Technologies for Sustainability – Engineering and the Environment (SusTech'13), Aug. 2013.
-
+-->
 <hr/>
