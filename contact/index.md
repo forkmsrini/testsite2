@@ -5,7 +5,9 @@ permalink: /contact/
 ---
 
 Email:
-firstName AT mile DOT ee DOT iisc DOT ernet DOT in | firstName AT ieee DOT org
+firstName AT mile DOT ee DOT iisc DOT ernet DOT in
+
+
 
 <!--Address:
 Room #202, MILE Lab, Department of Electrical Engineering,
