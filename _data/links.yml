@@ -9,6 +9,9 @@
   
 - url: /blog
   title: Blog
+  
+- url: /books
+  title: Books
 
 - url: /contact
   title: Contact
