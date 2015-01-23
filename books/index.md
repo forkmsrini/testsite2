@@ -19,3 +19,5 @@ I have not been a voracious reader, but few books have caught my attention or be
 * THE PH.D. GRIND: A Ph.D. Student Memoir, [*Philip J. Guo*](http://pgbovine.net/PhD-memoir.htm) - PhD explained! Must read for aspirants and all other. The ebook is available [here](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf). (5/5)
 
 This list shall be updated from time to time when I have time...
+
+<hr/>
