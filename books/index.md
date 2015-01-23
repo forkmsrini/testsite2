@@ -16,6 +16,6 @@ I have not been a voracious reader, but few books have caught my attention or be
 
 * The Pragmatic Programmer: From Journeyman to Master, *Andrew Hunt & David Thomas* - Write comments. Code clean. 'Keep knowledge in plain text,' a quote from the book. (4/5) 
 * Code Complete, *Steve McConnell* - 'Do not use booleans as status variables.' A good primer. (3.5/5)
-
+* THE PH.D. GRIND: A Ph.D. Student Memoir, [*Philip J. Guo*](http://pgbovine.net/PhD-memoir.htm) - PhD explained! Must read for aspirants and all other. The ebook is available [here](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf). (5/5)
 
 This list shall be updated from time to time when I have time...
