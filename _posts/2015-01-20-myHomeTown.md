@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Home Town
+title: Mannargudi - My Home Town
 ---
 
 Gopalasamudram, [Mannargudi](http://en.wikipedia.org/wiki/Mannargudi) is where my elders and ancestors lived. My great grandfather Sri. U. Ve. Mannargudi Gopalan Iynegar was a pacticing doctor at Gopalasamudram and later on moved to then Madras. <!--It is beleived that my ancestors were decendents of a famour scholar Periyavachan Pillai (periyavAchAn piLLai) who has written vyAkyAnams (translates to commentries) for about 400 pAsurams for periyAzhwAr thirumozhi.-->
