@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-Vanakkam!
+Vanakkam!!
 
 OneLiner: Average Joe with interest in artificial intelligence.
 
