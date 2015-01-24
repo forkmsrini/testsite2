@@ -2,16 +2,19 @@
   title: Home
 
 #- url: /about
-#  title: About
+# title: About
   
 - url: /publications
   title: Publications
   
-#- url: /blog
-#  title: Blog
+- url: /blog
+  title: Blog
   
 - url: /books
   title: Books
+
+-url: /Misc
+  title: Misc
 
 - url: /contact
   title: Contact
