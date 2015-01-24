@@ -10,8 +10,8 @@
 - url: /blog
   title: Blog
   
-- url: /books
-  title: Books
+#- url: /books
+#  title: Books
 
 -url: /misc
   title: Misc
